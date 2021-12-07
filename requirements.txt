@@ -1,0 +1,3 @@
+pip install pipreqs
+
+pipreqs IS 445 Final Project Pt. 3.ipynb
